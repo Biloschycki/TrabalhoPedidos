@@ -58,4 +58,5 @@ app/
                           └── PedidosScreen.kt
 ```
 
-
+Imagens da Aplicação
+(imagensAppRodando/Screenshot_20260314_141434.png)
