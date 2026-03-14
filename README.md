@@ -58,5 +58,10 @@ app/
                           └── PedidosScreen.kt
 ```
 
-Imagens da Aplicação
-(imagensAppRodando/Screenshot_20260314_141434.png)
+## 📱Imagens da Aplicação
+```
+(TrabalhoPedidos/imagensAppRodando/Screenshot_20260314_141434.png)
+(TrabalhoPedidos/imagensAppRodando/Screenshot_20260314_141620.png)
+(TrabalhoPedidos/imagensAppRodando/Screenshot_20260314_141704.png)
+(TrabalhoPedidos/imagensAppRodando/Screenshot_20260314_142040.png
+)
